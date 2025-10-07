@@ -1,0 +1,6 @@
+streamlit
+langchain==0.2.6
+openai==1.6.1
+faiss-cpu
+PyPDF2
+tiktoken
