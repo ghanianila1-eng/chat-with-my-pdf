@@ -6,3 +6,4 @@ PyPDF2
 PyPDF
 tiktoken
 PyPDFLoader
+langchain-community==0.2.6
